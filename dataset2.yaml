@@ -1,0 +1,4 @@
+train: C:\Users\marif\OneDrive\Escritorio\ProyectoVision\YOLODataset\train\
+val: C:\Users\marif\OneDrive\Escritorio\ProyectoVision\YOLODataset\val\
+nc: 20
+names: ["VeinteTresCaras", "VeinteZapata", "VeinteMarina", "Uno", "Dos", "Cinco", "Diez", "VeinteAguilas", "VeinteOctavio", "VeinteConstitucion", "VeinteTenochtitlan", "VeinteVeracruz", "VeinteFundacion", "VeinteReverso", "CincoReverso", "VeinteMiguelHidalgo", "VeinteMorelos", "DiezReverso", "DosReverso", "UnoReverso"]
